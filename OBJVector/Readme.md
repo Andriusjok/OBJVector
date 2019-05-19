@@ -1,7 +1,8 @@
-## Vector klases implementacija
+﻿## Vector klases implementacija
 
 # Funkcijos
 ```
+
 void resize(size_type rsize)
 		{
 			if (rsize < 0) throw std::out_of_range {"in function vector::resize"};
